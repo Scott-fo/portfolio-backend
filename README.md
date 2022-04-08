@@ -20,6 +20,6 @@ Back End:
 * MongoDB
 * Nodemailer
 
-Potential Issues:
+### Potential Issues
 I am aware of a scaling image with the Home section profile picture on Safari. The main issue has been resolved, however the responsiveness is less aesthetic than on Firefox, Chrome, and Edge.
 Python and Java logos have not been coloured in the skill section as they are not monotone and only one colour can be applied in the current implementation.
